@@ -6,5 +6,7 @@ public class AyhanJava {
 
     public static void main(String[] args) {
         // c-2
+        System.out.println();
+        //c-3
     }
 }
