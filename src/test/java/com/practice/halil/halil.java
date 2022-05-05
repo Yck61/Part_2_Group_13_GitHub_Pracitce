@@ -6,6 +6,7 @@ public class halil {
 
         System.out.println("halil is learning");
 
+        System.out.println("everything is ok");
     }
 
 }
